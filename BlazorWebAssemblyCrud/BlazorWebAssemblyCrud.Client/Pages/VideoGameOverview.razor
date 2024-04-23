@@ -1,0 +1,53 @@
+﻿@page "/videogames"
+@inject HttpClient Http
+@rendermode @(new InteractiveWebAssemblyRenderMode(prerender: false))
+
+<h3>VideoGameOverview</h3>
+
+<PageTitle>Video Game</PageTitle>
+
+<h1>Video Game</h1>
+
+@if (_videoGames.Count == 0)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Publisher</th>
+                <th>Release Year</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var videoGame in _videoGames)
+            {
+                <tr>
+                    <td>@videoGame.Title</td>
+                    <td>@videoGame.Publisher</td>
+                    <td>@videoGame.ReleaseYear</td>
+                    <td></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code{
+    List<VideoGame> _videoGames = new List<VideoGame>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        var result = await Http.GetFromJsonAsync<List<VideoGame>>("api/videogames");
+
+        if (result is not null)
+        {
+            _videoGames = result;
+        }
+    }
+
+}

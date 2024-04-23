@@ -1,0 +1,12 @@
+C:\Users\Adam.suchi\Projects\BlazorWebAssembly\BlazorWebAssembly\BlazorWebAssembly.Shared\bin\Debug\net8.0\BlazorWebAssembly.Shared.deps.json
+C:\Users\Adam.suchi\Projects\BlazorWebAssembly\BlazorWebAssembly\BlazorWebAssembly.Shared\bin\Debug\net8.0\BlazorWebAssembly.Shared.dll
+C:\Users\Adam.suchi\Projects\BlazorWebAssembly\BlazorWebAssembly\BlazorWebAssembly.Shared\bin\Debug\net8.0\BlazorWebAssembly.Shared.pdb
+C:\Users\Adam.suchi\Projects\BlazorWebAssembly\BlazorWebAssembly\BlazorWebAssembly.Shared\obj\Debug\net8.0\BlazorWebAssembly.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam.suchi\Projects\BlazorWebAssembly\BlazorWebAssembly\BlazorWebAssembly.Shared\obj\Debug\net8.0\BlazorWebAssembly.Shared.AssemblyInfoInputs.cache
+C:\Users\Adam.suchi\Projects\BlazorWebAssembly\BlazorWebAssembly\BlazorWebAssembly.Shared\obj\Debug\net8.0\BlazorWebAssembly.Shared.AssemblyInfo.cs
+C:\Users\Adam.suchi\Projects\BlazorWebAssembly\BlazorWebAssembly\BlazorWebAssembly.Shared\obj\Debug\net8.0\BlazorWebAssembly.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Adam.suchi\Projects\BlazorWebAssembly\BlazorWebAssembly\BlazorWebAssembly.Shared\obj\Debug\net8.0\BlazorWebAssembly.Shared.sourcelink.json
+C:\Users\Adam.suchi\Projects\BlazorWebAssembly\BlazorWebAssembly\BlazorWebAssembly.Shared\obj\Debug\net8.0\BlazorWebAssembly.Shared.dll
+C:\Users\Adam.suchi\Projects\BlazorWebAssembly\BlazorWebAssembly\BlazorWebAssembly.Shared\obj\Debug\net8.0\refint\BlazorWebAssembly.Shared.dll
+C:\Users\Adam.suchi\Projects\BlazorWebAssembly\BlazorWebAssembly\BlazorWebAssembly.Shared\obj\Debug\net8.0\BlazorWebAssembly.Shared.pdb
+C:\Users\Adam.suchi\Projects\BlazorWebAssembly\BlazorWebAssembly\BlazorWebAssembly.Shared\obj\Debug\net8.0\ref\BlazorWebAssembly.Shared.dll

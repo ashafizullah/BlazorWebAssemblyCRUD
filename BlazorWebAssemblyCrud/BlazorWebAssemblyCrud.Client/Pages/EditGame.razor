@@ -1,0 +1,16 @@
+﻿@page "/edit-game
+@page "/edit-game/{id:int}"
+
+@if (Id == null)
+{
+    <h3>Create Game</h3>
+}
+else
+{
+    <h3>Edit</h3>
+}
+
+@code {
+    [Parameter]
+    public int? Id { get; set; }
+}

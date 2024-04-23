@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Adam.suchi\\Projects\\BlazorWebAssembly\\BlazorWebAssembly\\BlazorWebAssemblyCrud\\BlazorWebAssemblyCrud\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorWebAssemblyCrud.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorWebAssemblyCrud.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam.suchi\\Projects\\BlazorWebAssembly\\BlazorWebAssembly\\BlazorWebAssemblyCrud\\BlazorWebAssemblyCrud\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam.suchi\\Projects\\BlazorWebAssembly\\BlazorWebAssembly\\BlazorWebAssemblyCrud\\BlazorWebAssemblyCrud\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Adam.suchi\\Projects\\BlazorWebAssembly\\BlazorWebAssembly\\BlazorWebAssemblyCrud\\BlazorWebAssemblyCrud\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Adam.suchi\\Projects\\BlazorWebAssembly\\BlazorWebAssembly\\BlazorWebAssemblyCrud\\BlazorWebAssemblyCrud\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorWebAssemblyCrud.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorWebAssemblyCrud.props",
+      "PackagePath": "build\\BlazorWebAssemblyCrud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorWebAssemblyCrud.props",
+      "PackagePath": "buildMultiTargeting\\BlazorWebAssemblyCrud.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorWebAssemblyCrud.props",
+      "PackagePath": "buildTransitive\\BlazorWebAssemblyCrud.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
